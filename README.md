@@ -1,8 +1,8 @@
 # Group Members
 
 1. Ephrem Alemayehu..........UGR/4365/12
-2. Tesfaye Adugna............UGR/4709/12
-3. Gizaw Dagne...............UGR/6640/12
+2. Tesfaye Adugna.............UGR/4709/12
+3. Gizaw Dagne................UGR/6640/12
 
 
 # Frozen Lake - Description
